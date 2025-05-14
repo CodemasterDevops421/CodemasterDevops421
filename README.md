@@ -8,7 +8,9 @@
 
 #### <span style="color:green">👨‍💻 Hello There 👋 </span>
 
-I'm Chaitanya, Senior DevOps Engineer, a maestro in automation, scalability, and continuous innovation. With 9 years of battle-tested experience, I orchestrate complex deployments, manage robust infrastructures, and bridge the cosmic gap between development and operations.
+I'm Chaitanya, Senior DevOps Engineer, a maestro in automation, scalability, and continuous innovation. With **10 years** of battle-tested experience, I orchestrate complex deployments, manage robust infrastructures, and bridge the cosmic gap between development and operations.
+
+![Profile Views](https://komarev.com/ghpvc/?username=CodemasterDevops421&label=Profile%20visits&color=0e75b6&style=flat)
 
 #### <span style="color:purple">🔧 My DevOps Arsenal:</span>
 
@@ -43,15 +45,11 @@ I'm Chaitanya, Senior DevOps Engineer, a maestro in automation, scalability, and
   <br /><br /><br /><br />
 </div>
 
-
 #
 
 #### <span style="color:orange">🌌 Explore My Repositories:</span>
 
 Embark on a journey through my projects, ranging from simple automation scripts to complex orchestration solutions. Feel the gravitational pull of open-source collaboration? Fork, contribute, and become part of the constellation!
-
-
-
 
 # 📊 My Stats
 
@@ -66,8 +64,6 @@ Embark on a journey through my projects, ranging from simple automation scripts 
 Join me on [YouTube](https://www.youtube.com/channel/UCbsQcEyUkV27dJOiejz5g5Q) where I share tutorials, insights, and live streams on DevOps, cloud technologies, and more. Subscribe and be part of the community that's exploring the universe of tech!
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
-
 <!-- END YOUTUBE-CARDS -->
 
 #### <span style="color:green">🔗 Connect with Me in the Cosmos:</span>
@@ -96,4 +92,3 @@ Whether it's terraforming a new DevOps landscape or launching a groundbreaking a
 </div>
 
 ---
-
