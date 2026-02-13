@@ -1,5 +1,3 @@
-<img align="center" src="https://simplecoding.dev/assets/devops.gif" alt="DevOps Tools Animation" width="100%" />
-
 ### 🚀 Welcome to the DevOps Galaxy of Chaitanya Kumar! 🌌
 
 ---
