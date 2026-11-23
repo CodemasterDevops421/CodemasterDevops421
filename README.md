@@ -4,7 +4,7 @@
 
 <img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" alt="Developer working at a computer" />
 
-I’m a **Senior DevOps and Platform Engineer with 10+ years of experience** designing reliable cloud platforms, automating software delivery, and operating production systems at scale.
+I’m a **Senior DevOps and Platform Engineer with 12 years of experience** designing reliable cloud platforms, automating software delivery, and operating production systems at scale.
 
 My work sits at the intersection of **DevOps, platform engineering, cloud infrastructure, data pipelines, and agentic AI**. I enjoy turning complex operational processes into secure, observable, and repeatable systems.
 
