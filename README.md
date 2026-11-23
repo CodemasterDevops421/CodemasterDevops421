@@ -1,102 +1,207 @@
-### 🚀 Welcome to the DevOps Galaxy of Chaitanya Kumar! 🌌
+# Hi, I'm Chaitanya Kumar 👋
 
----
+### Senior DevOps & Platform Engineer | Cloud-Native Systems | Agentic AI | SaaS Builder
 
-<img align="right" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" />
+<img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" alt="Developer working at a computer" />
 
-#### 👨‍💻 Hello There 👋
+I’m a **Senior DevOps and Platform Engineer with 10+ years of experience** designing reliable cloud platforms, automating software delivery, and operating production systems at scale.
 
-I'm Chaitanya, Senior DevOps Engineer, a maestro in automation, scalability, and continuous innovation. With **10 years** of battle-tested experience, I orchestrate complex deployments, manage robust infrastructures, and bridge the cosmic gap between development and operations.
+My work sits at the intersection of **DevOps, platform engineering, cloud infrastructure, data pipelines, and agentic AI**. I enjoy turning complex operational processes into secure, observable, and repeatable systems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=CodemasterDevops421&label=Profile%20visits&color=0e75b6&style=flat)
+I also build **SaaS products, AI automations, APIs, and web-scraping solutions**.
 
-#### 🔧 My DevOps Arsenal:
-
-- **Automation:** Crafting intelligent scripts to save time and obliterate human error.
-- **Collaboration:** Synchronizing with developers for seamless deployments across the universe.
-- **Innovation:** Exploring new galaxies of tools and methodologies to enhance efficiency and reliability.
-
-#### 🛠️ Technologies:
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="Apache" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=CodemasterDevops421&label=Profile%20Views&color=0e75b6&style=flat)
 
 <br clear="both">
 
 ---
 
-#### 🌌 Explore My Repositories:
+## 🚀 What I Work On
 
-Embark on a journey through my projects, ranging from simple automation scripts to complex orchestration solutions. Feel the gravitational pull of open-source collaboration? Fork, contribute, and become part of the constellation!
-
-## 📊 My Stats
-
-[![CodemasterDevops421's github stats](https://github-readme-stats.vercel.app/api?username=CodemasterDevops421&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/CodemasterDevops421)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodemasterDevops421&theme=radical)](https://github.com/CodemasterDevops421)
+- Designing and operating scalable cloud platforms on **AWS, Azure, and GCP**
+- Building production-grade **CI/CD and GitOps workflows**
+- Managing container platforms using **Kubernetes, Docker, Helm, and Argo CD**
+- Automating infrastructure using **Terraform, Ansible, Python, Bash, and PowerShell**
+- Developing AI agents using **Amazon Bedrock, Strands Agents, AgentCore, and RAG**
+- Building data and ML workflows with **AWS Glue, Step Functions, SageMaker, S3, and Aurora PostgreSQL**
+- Creating observability platforms with **Prometheus, Grafana, ELK, and Splunk**
+- Developing backend services and automation APIs using **FastAPI and Python**
+- Building self-hosted SaaS products, Apify Actors, data scrapers, and AI automations
+- Improving platform security, reliability, deployment speed, and cloud cost efficiency
 
 ---
 
-#### 🎥 My YouTube Channel:
+## 🧠 Current Focus
 
-Join me on [YouTube](https://www.youtube.com/channel/UCbsQcEyUkV27dJOiejz5g5Q) where I share tutorials, insights, and live streams on DevOps, cloud technologies, and more. Subscribe and be part of the community that's exploring the universe of tech!
+- Agentic AI for operations, incident investigation, and root-cause analysis
+- Secure tool orchestration and guardrails for production AI agents
+- Retrieval-Augmented Generation using Amazon Bedrock Knowledge Bases
+- AWS data and ML pipeline automation
+- Platform engineering and internal developer platforms
+- Kubernetes reliability and GitOps
+- Docker Compose-first, self-hosted SaaS products
+- API products and large-scale web data extraction
+
+---
+
+## 🛠️ Technology Stack
+
+### Cloud & AI
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-8C4FFF?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+### Containers & Platform Engineering
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+### Infrastructure & Automation
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+### Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
+
+### Data & Observability
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+### Systems & Web
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+---
+
+## 🔨 What I Build
+
+### Cloud and Platform Engineering
+
+Secure cloud infrastructure, Kubernetes platforms, automated deployments, observability systems, and reliable CI/CD pipelines.
+
+### Agentic AI Systems
+
+AI agents that combine LLM reasoning, deterministic tools, knowledge bases, operational guardrails, and structured evidence.
+
+### Data and ML Pipelines
+
+Event-driven workflows using AWS Glue, Step Functions, S3, Aurora PostgreSQL, SageMaker, and Bedrock.
+
+### SaaS and Automation
+
+Self-hosted applications, APIs, webhook platforms, AI-powered tools, scraping products, and workflow automations.
+
+### Web Data Products
+
+Production-ready Apify Actors for extracting, transforming, validating, and delivering structured web data.
+
+---
+
+## 🌐 Quick Life Solutions
+
+I build practical automation and web-data products through  
+[Quick Life Solutions](https://quicklifesolutions.com/).
+
+Areas of work include:
+
+- AI and business-process automation
+- Data scraping and extraction
+- SaaS and API development
+- WordPress and web development
+- Cloud deployment and infrastructure
+- Digital platforms and technical consulting
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+[![Chaitanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodemasterDevops421&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/CodemasterDevops421)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodemasterDevops421&theme=tokyonight&hide_border=true)](https://github.com/CodemasterDevops421)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodemasterDevops421&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/CodemasterDevops421)
+
+</div>
+
+> GitHub language statistics reflect public repository code and do not represent my complete professional experience.
+
+---
+
+## 🎥 YouTube
+
+I also create educational content and experiment with technology, engineering, research, storytelling, and content automation.
+
+[Visit my YouTube channel](https://www.youtube.com/channel/UCbsQcEyUkV27dJOiejz5g5Q)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 
 ---
 
-#### 🔗 Connect with Me in the Cosmos:
+## 🤝 Let's Connect
 
-- 🌐 **Portfolio:** [codemaster-devops421-github-io.vercel.app](https://codemaster-devops421-github-io.vercel.app/)
-- 📧 **Email:** [melamchaitanyakumar@gmail.com](mailto:melamchaitanyakumar@gmail.com)
-- 💼 **LinkedIn:** [chaitanya-m-b59627133](https://www.linkedin.com/in/chaitanya-m-b59627133)
-- 🎥 **YouTube:** [My Channel](https://www.youtube.com/channel/UCbsQcEyUkV27dJOiejz5g5Q)
+I’m interested in collaborating on:
 
----
-
-#### 👾 Let's Build Something Stellar Together:
-
-Whether it's terraforming a new DevOps landscape or launching a groundbreaking application, I'm open to collaboration. Reach out, and let's create something that resonates across the tech universe!
-
-#### 💫 Join Me on This Cosmic DevOps Adventure!
-
----
+- Platform engineering and DevOps projects
+- Kubernetes and cloud-native systems
+- Agentic AI and RAG applications
+- Developer tools and internal platforms
+- SaaS and self-hosted software
+- Web scraping and data automation
+- Open-source automation projects
 
 <div align="center">
   <a href="https://codemaster-devops421-github-io.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCbsQcEyUkV27dJOiejz5g5Q" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/chaitanya-m-b59627133/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCbsQcEyUkV27dJOiejz5g5Q" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
+  </a>
+  <a href="mailto:melamchaitanyakumar@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="35" alt="Email" />
   </a>
   <a href="https://www.buymeacoffee.com/melamchaitz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Buy%20Me%20a%20Coffee&logo=buy-me-a-coffee&label=&color=FF813F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Buy Me a Coffee" />
+    <img src="https://img.shields.io/static/v1?message=Buy%20Me%20a%20Coffee&logo=buy-me-a-coffee&label=&color=FF813F&logoColor=white&style=for-the-badge" height="35" alt="Buy Me a Coffee" />
   </a>
 </div>
 
 ---
+
+<div align="center">
+
+### Build reliable platforms. Automate repetitive work. Ship systems that last.
+
+</div>
