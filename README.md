@@ -8,7 +8,7 @@ I’m a **Senior DevOps and Platform Engineer with 10+ years of experience** des
 
 My work sits at the intersection of **DevOps, platform engineering, cloud infrastructure, data pipelines, and agentic AI**. I enjoy turning complex operational processes into secure, observable, and repeatable systems.
 
-I also build **SaaS products, AI automations, APIs, and web-scraping solutions**.
+I also build **SaaS products, AI automations, APIs, and production-ready Apify scrapers**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CodemasterDevops421&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -103,7 +103,7 @@ I also build **SaaS products, AI automations, APIs, and web-scraping solutions**
 
 ## 🔨 What I Build
 
-### Cloud and Platform Engineering
+### Cloud & Platform Engineering
 
 Secure cloud infrastructure, Kubernetes platforms, automated deployments, observability systems, and reliable CI/CD pipelines.
 
@@ -111,33 +111,32 @@ Secure cloud infrastructure, Kubernetes platforms, automated deployments, observ
 
 AI agents that combine LLM reasoning, deterministic tools, knowledge bases, operational guardrails, and structured evidence.
 
-### Data and ML Pipelines
+### Data & ML Pipelines
 
-Event-driven workflows using AWS Glue, Step Functions, S3, Aurora PostgreSQL, SageMaker, and Bedrock.
+Event-driven workflows using AWS Glue, Step Functions, S3, Aurora PostgreSQL, SageMaker, and Amazon Bedrock.
 
-### SaaS and Automation
+### SaaS & Automation
 
-Self-hosted applications, APIs, webhook platforms, AI-powered tools, scraping products, and workflow automations.
-
-### Web Data Products
-
-Production-ready Apify Actors for extracting, transforming, validating, and delivering structured web data.
+Self-hosted applications, APIs, webhook platforms, AI-powered tools, web-data products, and workflow automations.
 
 ---
 
-## 🌐 Quick Life Solutions
+## 🕷️ Apify Scrapers & Web Data Tools
 
-I build practical automation and web-data products through  
-[Quick Life Solutions](https://quicklifesolutions.com/).
+I build and maintain production-ready **Apify Actors** for web scraping, data extraction, validation, and automation.
 
-Areas of work include:
+My scrapers cover use cases such as:
 
-- AI and business-process automation
-- Data scraping and extraction
-- SaaS and API development
-- WordPress and web development
-- Cloud deployment and infrastructure
-- Digital platforms and technical consulting
+- YouTube channel data extraction
+- Telegram data scraping
+- Google Maps and business data
+- Contact information discovery
+- Bing search results
+- Website metadata and broken-link detection
+- Hotel and travel data
+- Automated website screenshots
+
+🔗 **Explore my Apify Actors:** [apify.com/dainty_screw](https://apify.com/dainty_screw)
 
 ---
 
